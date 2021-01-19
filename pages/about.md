@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+I am currently working in computer vision and machine learning at Calipsa, a company in London focusing on deep learning for video analytics. My interests are in Bayesian neural networks, reinforcement learning, meta reinforcement learning, variational inference and computer vision (video recognition, few shot learning, object and movement detection).
 
-You can find more information in [Jekyll Paper][jekyll-paper] or [Jekyll Paper for Github][jekyll-paper-github]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues], [Jekyll Paper for Github Issues][jekyll-paper-github-issues] or send email to [me](mailto:i@ghosind.com). 
+I have extensive experience using machine learning for real world applications. My recent work includes developing a few shot detector for detecting tear gas canisters to assist investigators at Forensic Architecture with their work on human rights violations. In the past year, I have worked on image and video generation and language modelling for art installations, and research on support vector graphic generation. 
 
-Wish you enjoying your blog life!
+I have executed challenging tasks throughout the entire pipeline, from dealing with small amounts (as little as ten training data points)  of data all the way to deploying ML models that serve thousands of requests per second.
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-github]: https://github.com/ghosind/Jekyll-Paper-Github
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
-[jekyll-paper-github-issues]: https://github.com/ghosind/Jekyll-Paper-Github/issues
+I completed my Masters in machine learning at the University of Cambridge, in August 2017. For my thesis, I worked on improving uncertainty estimates in deep reinforcement learning, through Bayes By Backprop, for the application of dialogue systems.
+
+In the past, I have worked as a cloud developer and consultant for an ERP consulting company in Montreal, and did my Bachelors in Electrical Engineering at McGill University. 

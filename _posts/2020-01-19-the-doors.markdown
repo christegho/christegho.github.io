@@ -1,15 +1,24 @@
 ---
 layout: post
-title:  "[The Doors][the-doors-homepage], with [Zach Blas][zach-blas]"
+title:  "The Doors, with Zach Blas"
 date: 2020-03-01
 last_modified_at: 2021-01-17
 categories: [GANs, GPT-2, language-models]
 ---
 
-* In 2019 -2020, we had the pleasure to work with Zach Blas on the installation The Doors. 
-a multimedia installation exploring psychedelia, drug use, and artificial intelligence. It is work commissioned by Edith-Russ-Haus für Medienkunst (Oldenburg, Germany), de Young Museum (San Fransisco, US), and Van Abbemuseum (Eidhoven, the Netherlands).
-* Generated 36 differently themed videos with GANs trained on images of psychadelia, pills, LSD, consciousness, etc.
-* Generated 6 poems around the topic of Nootropics with the style of Jim Morrisson poetry, by training a GPT-2 on Jim Morrisson poems and finetuning the model on pharmaceuticals literature.
+* In 2019 - 2020, we worked with artist [Zach Blas][zach-blas] on the installation [The Doors][the-doors-homepage]. The work was commissioned by Edith-Russ-Haus für Medienkunst (Oldenburg, Germany), de Young Museum (San Fransisco, US), and Van Abbemuseum (Eidhoven, the Netherlands).
+
+* The doors is a multimedia installation exploring psychedelia, drug use, and artificial intelligence.
+* We generated 36 differently themed videos with GANs trained on image datasets of psychedelic rock posters, LSD blotter art, brains, glass architecture, sacred geometry, broken glass, and lizard skin.
+
+* We also generated 6 poems using a GPT-2 model trained on corporate nootropics literature and Morrison’s writing.
+
+![Video Still GAN-LSD](/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg)
+![Video Still GAN-shattered-glass](/assets/images/thedoors/zachblas_the-doors_GAN-shattered-glass.jpg)
+![Video Still brains-and-neural-networks](/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg)
+![Video Still california-glass-architecture](/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg)
+
+
 
 [zach-blas]: http://www.zachblas.info
 [the-doors-homepage]: http://www.zachblas.info/works/the-doors/ 
