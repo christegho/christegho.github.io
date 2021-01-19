@@ -9,4 +9,4 @@
 
 * I completed my Masters in machine learning at the University of Cambridge, in August 2017. For my thesis, I worked on improving uncertainty estimates in deep reinforcement learning, through Bayes By Backprop, for the application of dialogue systems.
 
-* In the past, I have worked as a cloud developer and consultant for an ERP consulting company in Montreal, and did my Bachelors in Electrical Engineering at McGill University. 
+* I did my Bachelors in Electrical Engineering at McGill University. 
