@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "[The Doors][the-doors-homepage], with [Zach Blas][zach-blas]"
+date:   2020
+last_modified_at: 2020-10-16
+categories: [GANs, GPT-2, language-models]
+---
+
+* Work commissioned by Edith-Russ-Haus für Medienkunst (Oldenburg, Germany), de Young Museum (San Fransisco, US), and Van Abbemuseum (Eidhoven, the Netherlands).
+* Generated 36 differently themed videos with GANs trained on images of psychadelia, pills, LSD, consciousness, etc.
+* Generated 6 poems around the topic of Nootropics with the style of Jim Morrisson poetry, by training a GPT-2 on Jim Morrisson poems and finetuning the model on pharmaceuticals literature.
+
+[zach-blas]: http://www.zachblas.info
+[the-doors-homepage]: http://www.zachblas.info/works/the-doors/ 
+
+
