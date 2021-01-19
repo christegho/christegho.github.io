@@ -17,7 +17,7 @@ layout: default
   <div class="post-info">
     <div class="post-date">
       {{ site.data.lang[site.language].post_write_date}}
-      {{ page.date | date: '%Y-%m-%d' }}
+      {{ page.date | date: '%Y' }}
       {% if page.last_modified_at %}
         ,
         {{ site.data.lang[site.language].post_update_date}}
