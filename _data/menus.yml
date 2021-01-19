@@ -1,5 +1,5 @@
 - title: "Projects"
-  url: ''
+  url: 'posts'
 
 - default: menu_category
   url: 'categories'
