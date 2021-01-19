@@ -11,10 +11,8 @@ layout: default
     <span>{{ site.name }}</span>
   </div>
   {% endif %}
-  <div class="post-content">
-    {{ content }}
-  </div>
-    <div class="post-categories">
+    
+      <div class="post-categories">
   <span>{{ site.data.lang[site.language].post_categories }}</span>
   {% for category in page.categories %}
   <a 
@@ -24,6 +22,11 @@ layout: default
   </a>
   {% endfor %}
 </div>
+    
+  <div class="post-content">
+    {{ content }}
+  </div>
+
     
   <div class="post-info">
     <div class="post-date">
