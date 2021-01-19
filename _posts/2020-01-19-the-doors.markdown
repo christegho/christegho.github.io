@@ -6,7 +6,7 @@ last_modified_at:
 categories: [GANs, GPT-2, language-models]
 ---
 
-* In 2019 - 2020, we worked with artist [Zach Blas][zach-blas] on the installation [The Doors][the-doors-homepage]. The work was commissioned by Edith-Russ-Haus für Medienkunst (Oldenburg, Germany), de Young Museum (San Fransisco, US), and Van Abbemuseum (Eidhoven, the Netherlands).
+* In 2019 - 2020, my colleague Ashwin D'Cruz and I worked with artist [Zach Blas][zach-blas] on the installation [The Doors][the-doors-homepage]. The work was commissioned by Edith-Russ-Haus für Medienkunst (Oldenburg, Germany), de Young Museum (San Fransisco, US), and Van Abbemuseum (Eidhoven, the Netherlands).
 
 * The doors is a multimedia installation exploring psychedelia, drug use, and artificial intelligence.
 * We generated 36 differently themed videos with GANs trained on image datasets of psychedelic rock posters, LSD blotter art, brains, glass architecture, sacred geometry, broken glass, and lizard skin.
