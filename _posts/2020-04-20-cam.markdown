@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Detecting Tear-Gas Canisters, with Forensic Architecture"
+date: 2017-03-01
+last_modified_at:
+categories: [reinforcement-learning, bayesian-neural-networks]
+---
+
+* Worked for the [Dialogue Systems group](http://dialogue.mi.eng.cam.ac.uk/index.php/pydial/) at the University of Cambridge, under the supervision of Prof [Milica Gašić](https://www.cs.hhu.de/en/research-groups/dialog-systems-and-machine-learning-prof-dr-milica-gasic/our-team/team/cv-gasic.html) and [Paweł Budzianowski](http://budzianowski.github.io/). 
+<br/><br/>
+* Examined approaches to extract uncertainty estimates from deep Q-networks (DQN) and implemented deep Bayesian methods for DQN (Bayes-By-Backprop, dropout, concrete dropout, bootstrapped ensemble and alpha-divergences) in PyDial, a Python library for dialogue management. 
+<br/><br/>
+* The Bayes-by-Backprop algorithm achieves the best performance among the neural networks approaches, and reaches performance comparable to the state of the art in policy optimization, namely GPSARSA, without the high computational complexity of Gaussian Processes, especially when evaluated on more complex domains, without the high computational complexity of Gaussian Processes.
+<br/><br/>
+
+### Publications ### 
+* Tegho, C., Budzianowski, P., & Gašić, M. (2018). Benchmarking Uncertainty Estimates With Deep Reinforcement Learning for Dialogue Policy Optimisation. _IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)_. [Paper Link](https://ieeexplore.ieee.org/document/8462348)
+<br/><br/>
+* Tegho, C., Budzianowski, P., & Gašić, M. (2017). Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation. _Accepted at the Bayesian Deep Learning Workshop, 31st Conference on Neural Information Processing Systems (NIPS)._ [Paper Link](https://arxiv.org/abs/1711.11486)
+<br/><br/>
+
+### Scholarships and Awards ###
+* Best Student Paper Award (ICASSP 2018) 
+* Graduate Masters Scholarship from the Fonds de Recherche - Nature et Technologie Quebec
