@@ -21,6 +21,24 @@
 <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" width="190" height="125" alt="calipsa.gif">
 <img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" width="190" height="125" alt="calipsa.gif">
 
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+
+img {
+flex: 1;
+max-width: 100%;
+height: auto;
+max-height: 310px;
+}
+<div class="container" style="width: 930px; max-width: 100%; border: 1px solid blue;">
+<img src="/assets/images/calipsa/calipsa.gif"> 
+<img src="/assets/images/fa/can1.jpg"> 
+<img src="/assets/images/fa/can2.jpg">
+</div>
 
 ### Projects ###
 <article class="container-posts">
