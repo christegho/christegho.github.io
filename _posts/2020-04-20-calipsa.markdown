@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Senior Machine Learning Engineer at Calipsa"
+date: 2021-03-01
+last_modified_at:
+categories: [computer-vision, video-understanding, transfer-learning]
+---
+
+* Currently working as a senior machine learning engineer at [Calipsa](calipsa.io).
+<br/><br/>
+* Calipsa’s AI platform analyses CCTV alarms in real-time to filter out false ones and automatically notify alarm monitoring services about true alarms.
+<br/><br/>
+* My focus  at Calipsa is to **develop ML models that detect motion of people and cars in videos** (true alarm), as opposed to motion  triggered by changes in light conditions or weather, by animals or other events that are not in our target (false alarm).
+<br/><br/>
+* Challenges include being able to process very short videos (usually 2-3 video frames), settings with low light levels or low contrasts, detecting small amount of motion or small cars or people, detecting occluded people or cars, and unseen settings (generalisation).
+<br/><br/>
+* Currently, the ML models achieves an average of **94% reduction** while maintaining **a recall of 99+%**.
+<br/><br/>
+* I also research methods for transfering models to low resolution (as low as 60px x 80px) settings and thermal settings where data is currently less readily available (5000 training data points for these settings). 
+
+![calipsa.gif](/assets/images/calipsa/calipsa.gif)
