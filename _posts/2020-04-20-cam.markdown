@@ -28,4 +28,4 @@ Speech and Language Technology, University of Cambridge_. [Thesis Link](https://
 * Graduate Masters Scholarship from the Fonds de Recherche - Nature et Technologie Quebec
 <br/><br/>
 
-![thesis](/assets/images/thesis.png)
+![thesis](/assets/images/cam/thesis.png)
