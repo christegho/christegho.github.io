@@ -9,7 +9,9 @@ categories: [computer-vision, few-shot]
 * Research work in collaboration with Forensic Architecture.
 * Developped a [few shot detector](https://forensic-architecture.org/investigation/model-zoo) for [detecting tear-gas canisters](https://forensic-architecture.org/investigation/detecting-tear-gas) in videos, for assisting human rights investigations.
 * This project was exhibited at [Uncanny Valley: Being human in the age of AI](https://deyoung.famsf.org/exhibitions/uncanny-valley), at the de Young Museum in San Fransisco.
+
 <br/><br/>
+
 #### Summary ####
 This project highlights how ML can be used for real-world applications, and how recent advances in ML can be leveraged for the greater good.
 
