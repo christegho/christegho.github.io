@@ -1,4 +1,4 @@
-- default: menu_posts
+- title: "Projects"
   url: 'posts'
 
 - default: menu_category
