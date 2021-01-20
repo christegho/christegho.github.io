@@ -4,7 +4,7 @@
 
 * I am currently working at [Calipsa](calipsa.io), focusing on deep learning for video understanding. I have also worked with organisations, artists and scientists supporting applying ML for their work.
 
-* My interests are in *Bayesian neural networks*, *reinforcement learning*, *meta reinforcement learning*, *variational inference* and computer vision (*video understanding*, *few shot learning*, *object and movement detection*).
+* My interests are in **Bayesian neural networks**, **reinforcement learning**, **meta reinforcement learning**, **variational inference** and computer vision (**video understanding**, **few shot learning**, **object and movement detection**).
 
 * I completed my Masters in machine learning at the University of Cambridge, in August 2017. For my thesis, I worked on improving uncertainty estimates in deep reinforcement learning, through Bayes By Backprop, for the application of dialogue systems.
 
