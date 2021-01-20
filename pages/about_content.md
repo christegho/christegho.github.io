@@ -12,13 +12,14 @@
 
 <br/><br/>
 
-![calipsa.gif](/assets/images/calipsa/calipsa.gif =190x125)
-![FA Canisters 1](/assets/images/fa/can1.jpg =190x125)
-![FA Canisters 2](/assets/images/fa/can2.jpg =190x125)
-![Video Still GAN-LSD](/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg =190x125)
-![Video Still GAN-shattered-glass](/assets/images/thedoors/zachblas_the-doors_GAN-shattered-glass.jpg =190x125)
-![Video Still brains-and-neural-networks](/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg =190x125)
-![Video Still california-glass-architecture](/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg =190x125)
+
+<img src="/assets/images/calipsa/calipsa.gif" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/fa/can1.jpg" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/fa/can2.jpg" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/thedoors/zachblas_the-doors_GAN-shattered-glass.jpg" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" width="190" height="125" alt="calipsa.gif">
+<img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" width="190" height="125" alt="calipsa.gif">
 
 
 ### Projects ###
