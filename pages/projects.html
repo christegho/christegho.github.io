@@ -3,8 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-TEST
-<article class="container-posts">
+
+<div class="container-posts">
   {% for post in paginator.posts %}
   <div class="posts-list-item">
     <span class="posts-list-item-name float-left">
@@ -32,4 +32,7 @@ TEST
     {% endif %}
   </div>
   {% endif %}
-</article>
+</div>
+
+
+{% include posts.html %}
