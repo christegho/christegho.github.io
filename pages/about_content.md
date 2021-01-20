@@ -1,13 +1,13 @@
 
 
 * I am a machine learning engineer with focus on computer vision, and extensive experience in language modeling, and generative models. 
-<br/>
+<br/><br/>
 * I have executed challenging tasks throughout entire pipelines, from dealing with small amounts of data (as little as 10 training data points) all the way to deploying ML models that serve thousands of requests per second.
-<br/>
+<br/><br/>
 * I am currently working at [Calipsa](calipsa.io), focusing on deep learning for video understanding. I have also worked with organisations, artists and scientists supporting applying ML for their work.
-<br/>
+<br/><br/>
 * My interests are in **Bayesian neural networks**, **reinforcement learning**, **meta reinforcement learning**, **variational inference** and computer vision (**video understanding**, **few shot learning**, **object and movement detection**).
-<br/>
+<br/><br/>
 * I completed my Masters in machine learning at the University of Cambridge, in August 2017. 
 
 <br/><br/>
