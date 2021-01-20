@@ -18,7 +18,13 @@ categories: [reinforcement-learning, bayesian-neural-networks]
 <br/><br/>
 * Tegho, C., Budzianowski, P., & Gašić, M. (2017). Uncertainty Estimates for Efficient Neural Network-based Dialogue Policy Optimisation. _Accepted at the Bayesian Deep Learning Workshop, 31st Conference on Neural Information Processing Systems (NIPS)._ [Paper Link](https://arxiv.org/abs/1711.11486)
 <br/><br/>
+* Tegho, C. Bayes By Backprop Neural Networks forDialogue Management. _Thesis Dissertation for MPhil in Machine Learning,
+Speech and Language Technology, University of Cambridge_. [Thesis Link](https://www.mlmi.eng.cam.ac.uk/files/tegho_dissertation.pdf)
+<br/><br/>
 
 ### Scholarships and Awards ###
 * Best Student Paper Award (ICASSP 2018) 
 * Graduate Masters Scholarship from the Fonds de Recherche - Nature et Technologie Quebec
+<br/><br/>
+
+![thesis](/assets/images/thesis.png)
