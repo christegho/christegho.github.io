@@ -6,10 +6,15 @@ last_modified_at:
 categories: [computer-vision, few-shot]
 ---
 
+* Research work in collaboration with Forensic Architecture.
+* Developped a [few shot detector](https://forensic-architecture.org/investigation/model-zoo) for [detecting tear-gas canisters](https://forensic-architecture.org/investigation/detecting-tear-gas) in videos, for assisting human rights investigations.
+* This project was exhibited at [Uncanny Valley: Being human in the age of AI](https://deyoung.famsf.org/exhibitions/uncanny-valley), at the de Young Museum in San Fransisco.
+
+## Abstract ##
 Human rights investigations often require triaging large volumes of open source data in order to find moments within image, audio, or video that are relevant to a given investigation and warrant further inspection. Searching for images of tear gas online manually is laborious and time-consuming. Automating discovery, identification, or archiving, could be hugely beneficial to human rights monitors.
 
-* In this work, I developed a [few shot detector](https://forensic-architecture.org/investigation/model-zoo) for [detecting tear-gas canisters](https://forensic-architecture.org/investigation/detecting-tear-gas) in videos, for assisting human rights investigations for Forensic Architecture.
-* This project was exhibited at [Uncanny Valley: Being human in the age of AI](https://deyoung.famsf.org/exhibitions/uncanny-valley), at the de Young Museum in San Fransisco.
+
+For CNN based object detection to work, a large amount of training data is required. This amount of data is not available for the task of detecting tear gas canisters. While traditional detectors suffer from overfitting when presented with small amounts of annotated data. The few shot detector is specifically designed to learn to generalise well from just a few examples of the object in question.
 
 
 
