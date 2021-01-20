@@ -10,7 +10,7 @@ categories: [computer-vision, few-shot]
 * Developped a [few shot detector](https://forensic-architecture.org/investigation/model-zoo) for [detecting tear-gas canisters](https://forensic-architecture.org/investigation/detecting-tear-gas) in videos, for assisting human rights investigations.
 * This project was exhibited at [Uncanny Valley: Being human in the age of AI](https://deyoung.famsf.org/exhibitions/uncanny-valley), at the de Young Museum in San Fransisco.
 
-## Abstract ##
+### Summary ###
 Human rights investigations often require triaging large volumes of open source data in order to find moments within image, audio, or video that are relevant to a given investigation and warrant further inspection. Searching for images of tear gas online manually is laborious and time-consuming. Automating discovery, identification, or archiving, could be hugely beneficial to human rights monitors.
 
 
