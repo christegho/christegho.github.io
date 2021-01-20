@@ -1,4 +1,4 @@
-- default: "menu_projects"
+- title: "Projects"
   url: 'projects'
 
 - default: menu_category
