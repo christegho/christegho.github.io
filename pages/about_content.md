@@ -58,7 +58,7 @@ body {
 <br/><br/>
 * I have executed challenging tasks throughout entire pipelines, from dealing with small amounts of data (as little as 10 training data points) all the way to deploying ML models that serve thousands of requests per second.
 <br/><br/>
-* I am currently working at [Calipsa](calipsa.io), focusing on deep learning for video understanding. I have also worked with organisations, artists and scientists supporting applying ML for their work.
+* I am currently working at [Calipsa](calipsa.io), focusing on deep learning for video understanding. I have also worked with organisations, artists and scientists supporting applying ML to their work.
 <br/><br/>
 * My interests are in **Bayesian neural networks**, **reinforcement learning**, **meta reinforcement learning**, **variational inference** and computer vision (**video understanding**, **few shot learning**, **object and movement detection**).
 <br/><br/>
@@ -87,34 +87,6 @@ body {
   </div>
 </div>
 
-
-<!-- <div class="grid_gallery gallery cf" data-featherlight-gallery="" data-featherlight-filter="a.gallery" style="position: relative;height: 750px;">
-<div class="grid-item" style="position: relative; left: 20%; top: 0px;">
-<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/calipsa/calipsa.gif" alt="The Doors" style="height: 300px">
-<p class="wp-caption-text">Calipsa</p></a>
-</div>
-
-<div class="grid-item" style="position: absolute; left: -20%; top: 10px;">
-<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" alt="The Doors" style="width: 40%">
-<p class="wp-caption-text">The Doors (2020)</p></a>
-</div>
-    
-<div class="grid-item" style="position: absolute; left: 1%; top: 280px;">
-<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/fa/can1.jpg" alt="The Doors" style="width: 500px">
-<p class="wp-caption-text">Forensic Architecture</p></a>
-</div>
-    
-<div class="grid-item" style="position: absolute; left: 60%; top: 280px;">
-<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" alt="The Doors" style="width: 340px">
-<p class="wp-caption-text">The Doors (2020)</p></a>
-</div>
-
-
-    
-<div class="grid-item" style="position: absolute; left: -1%; top: 420px;">
-<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" alt="The Doors" style="width: 40%"></a>
-</div>
-</div> -->
 
 ### Projects ###
 <article class="container-posts">

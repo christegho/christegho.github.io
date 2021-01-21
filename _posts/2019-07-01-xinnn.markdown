@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Album cover for MELTS INTO LOVE by Xin"
+date: 2019-07-01
+last_modified_at:
+categories: [style-transfer]
+---
+
+My colleague Ashwin D'Cruz and I worked with artist Xin to generate the album cover for their album [MELTS INTO LOVE](http://xxxiiinnn.net/) via neural style transfer.
+<br/><br/>
+
+![Xin](/assets/images/xin.jpg)
+
