@@ -12,32 +12,32 @@
 
 <br/><br/>
 
+<div class="grid_gallery gallery cf" data-featherlight-gallery="" data-featherlight-filter="a.gallery" style="position: relative;height: 750px;">
+<div class="grid-item" style="position: relative; left: 20%; top: 0px;">
+<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/calipsa/calipsa.gif" alt="The Doors" style="height: 300px">
+<p class="wp-caption-text">Calipsa</p></a>
+</div>
 
-<img src="/assets/images/calipsa/calipsa.gif" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/fa/can1.jpg" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/fa/can2.jpg" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/thedoors/zachblas_the-doors_GAN-shattered-glass.jpg" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" width="190" height="125" alt="calipsa.gif">
-<img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" width="190" height="125" alt="calipsa.gif">
+<div class="grid-item" style="position: absolute; left: -20%; top: 10px;">
+<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" alt="The Doors" style="width: 40%">
+<p class="wp-caption-text">The Doors (2020)</p></a>
+</div>
+    
+<div class="grid-item" style="position: absolute; left: 1%; top: 280px;">
+<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/fa/can1.jpg" alt="The Doors" style="width: 500px">
+<p class="wp-caption-text">Forensic Architecture</p></a>
+</div>
+    
+<div class="grid-item" style="position: absolute; left: 60%; top: 280px;">
+<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" alt="The Doors" style="width: 340px">
+<p class="wp-caption-text">The Doors (2020)</p></a>
+</div>
 
-.container{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: flex-start;
-}
 
-img {
-flex: 1;
-max-width: 100%;
-height: auto;
-max-height: 310px;
-}
-<div class="container" style="width: 930px; max-width: 100%; border: 1px solid blue;">
-<img src="/assets/images/calipsa/calipsa.gif"> 
-<img src="/assets/images/fa/can1.jpg"> 
-<img src="/assets/images/fa/can2.jpg">
+    
+<div class="grid-item" style="position: absolute; left: -1%; top: 420px;">
+<a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" alt="The Doors" style="width: 40%"></a>
+</div>
 </div>
 
 ### Projects ###
