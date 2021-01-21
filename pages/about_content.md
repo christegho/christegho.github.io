@@ -68,15 +68,15 @@ body {
 
 <div class="row"> 
   <div class="column">
-    <img src="/assets/images/fa/can1.jpg" style="width:100%">
     <img src="/assets/images/calipsa/calipsa.gif" style="width:100%">
     <img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" style="width:100%">
+      <img src="/assets/images/xin.jpg" style="width:100%">
     
   </div>
   <div class="column">
-    
+    <img src="/assets/images/fa/can1.jpg" style="width:100%">
     <img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%">
-    <img src="/assets/images/xin.jpg" style="width:100%">
+    <img src="/assets/images/can3.jpg" style="width:100%">
     
   </div>  
   <div class="column">
