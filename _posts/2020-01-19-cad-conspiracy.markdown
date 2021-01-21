@@ -6,7 +6,7 @@ last_modified_at:
 categories: [GANs]
 ---
 
-* In 2019, I collaborated with artists (Mahan Moalemi)[https://mahanmoalemi.com/] and (Bahar Noorizadeh)[http://www.baharnoorizadeh.com/] on the video-essay installation **CAD Conspiracy: Pattern Recognition in Contemporary Art** at the (Mosaic Rooms)[https://mosaicrooms.org/event/cad-conspiracy/].
+* In 2019, I collaborated with artists [Mahan Moalemi](https://mahanmoalemi.com/) and [Bahar Noorizadeh](http://www.baharnoorizadeh.com/) on the video-essay installation **CAD Conspiracy: Pattern Recognition in Contemporary Art** at the [Mosaic Rooms](https://mosaicrooms.org/event/cad-conspiracy/).
 <br/><br/>
 * I generated the images of contemporary art installations via a DC-GAN for the installation.
 <br/><br/>
