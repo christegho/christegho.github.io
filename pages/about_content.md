@@ -12,7 +12,31 @@
 
 <br/><br/>
 
-<div class="grid_gallery gallery cf" data-featherlight-gallery="" data-featherlight-filter="a.gallery" style="position: relative;height: 750px;">
+<div class="row"> 
+  <div class="column">
+    <img src="/assets/images/calipsa/calipsa.gif" style="width:100%">
+    <img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" style="width:100%">
+    
+  </div>
+  <div class="column">
+    <img src="/assets/images/fa/can1.jpg" style="width:100%">
+    <img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%">
+    
+  </div>  
+  <div class="column">
+    <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%">
+<!--     <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%"> -->
+    
+  </div>
+  <div class="column">
+    <img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%">
+<!--     <img src="/w3images/ocean.jpg" style="width:100%"> -->
+ 
+  </div>
+</div>
+
+
+<!-- <div class="grid_gallery gallery cf" data-featherlight-gallery="" data-featherlight-filter="a.gallery" style="position: relative;height: 750px;">
 <div class="grid-item" style="position: relative; left: 20%; top: 0px;">
 <a href="" class="gallery" data-featherlight="image"><img src="/assets/images/calipsa/calipsa.gif" alt="The Doors" style="height: 300px">
 <p class="wp-caption-text">Calipsa</p></a>
@@ -38,7 +62,7 @@
 <div class="grid-item" style="position: absolute; left: -1%; top: 420px;">
 <a href="" class="gallery" data-featherlight="image"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" alt="The Doors" style="width: 40%"></a>
 </div>
-</div>
+</div> -->
 
 ### Projects ###
 <article class="container-posts">
