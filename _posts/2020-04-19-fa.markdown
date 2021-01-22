@@ -16,12 +16,12 @@ categories: [computer-vision, few-shot]
 * For CNN based object detection to work, a large amount of training data is required. This amount of data is not available for the task of detecting tear gas canisters. 
 * While traditional detectors suffer from overfitting when presented with small amounts of annotated data, the few shot detector is specifically designed to learn to generalise well from just a few examples of the object in question.
 * I experimented training the few shot detector with as little as 10 images, up to 300 images of canisters, and experimented with data uagmentation via synthetic images.
-
+<br/><br/>
 #### Why This Matters ####
 * Human rights investigations often require triaging large volumes of open source data in order to find moments within image, audio, or video that are relevant to a given investigation and warrant further inspection. Searching for images of tear gas online manually is laborious and time-consuming. 
 * This allows to automate discovery, identification, and archiving, which is hugely beneficial to human rights monitors.
 * This project highlights how ML can be used for real-world applications, and how recent advances in ML can be leveraged for the greater good.
-
+<br/><br/>
 
 
 
