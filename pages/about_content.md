@@ -68,22 +68,24 @@ body {
 
 <div class="row"> 
   <div class="column">
-    <img src="/assets/images/calipsa/calipsa.gif" style="width:100%">
-    <img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" style="width:100%">
-    <img src="/assets/images/cad.jpg" style="width:100%">
+    <a href="/calipsa"><img src="/assets/images/calipsa/calipsa.gif" style="width:100%"></a>
+    <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" style="width:100%"></a> 
+    <a href="/cad-conspiracy"><img src="/assets/images/cad.jpg" style="width:100%"></a>
       
     
   </div>
   <div class="column">
-    <img src="/assets/images/fa/can1.jpg" style="width:100%">
-    <img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%">
-    <img src="/assets/images/can3.jpg" style="width:100%">
-    <img src="/assets/images/calipsa/calipsa2.jpg" style="width:100%">
+    <a href="/fa"><img src="/assets/images/fa/can1.jpg" style="width:100%"></a>
+    <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%"></a>
+    <a href="/fa"><img src="/assets/images/can3.jpg" style="width:100%"></a>
+    <a href="/calipsa"><img src="/assets/images/calipsa/calipsa2.jpg" style="width:100%"></a>
     
   </div>  
   <div class="column">
-    <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%">
-    <img src="/assets/images/xin.jpg" style="width:100%">
+    <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%"></a>
+    <a href="/xinnn"><img src="/assets/images/xin.jpg" style="width:100%"></a>
+    <a href="/fa"><img src="assets/images/fa4.jpeg" style="width:100%"></a>
+      
 <!--     <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%"> -->
     
   </div>
