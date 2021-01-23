@@ -84,7 +84,7 @@ body {
   <div class="column">
     <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%"></a>
     <a href="/xinnn"><img src="/assets/images/xin.jpg" style="width:100%"></a>
-    <a href="/fa"><img src="assets/images/fa4.jpeg" style="width:100%"></a>
+    <a href="/fa"><img src="/assets/images/fa4.jpeg" style="width:100%"></a>
       
 <!--     <img src="/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg" style="width:100%"> -->
     
