@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Album covers with Serafin Gerber"
-date: 2021-07-01
+date: 2021-01-01
 last_modified_at:
 categories: [GANs]
 ---
