@@ -71,7 +71,7 @@ body {
     <a href="/calipsa"><img src="/assets/images/calipsa/calipsa.gif" style="width:100%"></a>
     <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg" style="width:100%"></a> 
     <a href="/cad-conspiracy"><img src="/assets/images/cad.jpg" style="width:100%"></a>
-      <a href="/serafin><img src="/assets/images/serafin/im_1.jpg" style="width:100%"></a>
+      <a href="/serafin"><img src="/assets/images/serafin/im_1.jpg" style="width:100%"></a>
       
     
   </div>
@@ -80,7 +80,7 @@ body {
     <a href="/the-doors"><img src="/assets/images/thedoors/zachblas_the-doors_california-glass-architecture.jpg" style="width:100%"></a>
     <a href="/fa"><img src="/assets/images/can3.jpg" style="width:100%"></a>
     <a href="/calipsa"><img src="/assets/images/calipsa/calipsa2.jpg" style="width:100%"></a>
-      <a href="/serafin><img src="/assets/images/serafin/im_7.jpg" style="width:100%"></a>
+      <a href="/serafin"><img src="/assets/images/serafin/im_7.jpg" style="width:100%"></a>
     
   </div>  
   <div class="column">

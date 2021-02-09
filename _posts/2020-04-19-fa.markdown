@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Detecting Tear-Gas Canisters, with Forensic Architecture"
-date: 2020-03-01
+date: 2021-01-02
 last_modified_at:
 categories: [computer-vision, few-shot]
 ---
