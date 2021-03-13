@@ -13,6 +13,12 @@ categories: [GANs, GPT-2, language-models]
 
 * We also generated 6 poems using a GPT-2 model trained on corporate nootropics literature and Morrison’s writing.
 
+<iframe width="420" height="315"
+src="https://player.vimeo.com/video/350993592">
+</iframe>
+
+<br/><br/>
+
 ![Video Still GAN-LSD](/assets/images/thedoors/zachblas_the-doors_GAN-LSD.jpg)
 ![Video Still GAN-shattered-glass](/assets/images/thedoors/zachblas_the-doors_GAN-shattered-glass.jpg)
 ![Video Still brains-and-neural-networks](/assets/images/thedoors/zachblas_the-doors_GAN-brains-and-neural-networks3.jpg)
