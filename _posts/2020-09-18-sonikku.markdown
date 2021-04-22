@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Album covers with Serafin Gerber"
-date: 2021-01-01
+title:  "Audio Reactive Video Generation with SONIKKU"
+date: 2021-04-01
 last_modified_at:
 categories: [GANs]
 ---
@@ -62,10 +62,12 @@ body {
 
 </style>
 
+Collaborated with DJ and producer [SONIKKU](https://bellaunion.com/artists/sonikku/#:~:text='Sweat'%20is%20the%20new%20single,synths%20and%20pulsating%20bass%2Dlines.) on the music video for his upcoming Spring 2021 release. 
 
-Worked with artist [Serafin Gerber](https://serafingerber.ch/) to generate album covers for his EPs using low shot StyleGANs.
 <br/><br/>
+I create audio reactive visuals generated with low shot StyleGANs trained on images of ecstasy pills, lazer shows, the adonis instagram page and images of SONIKKU to simulate a night out from an AI perspective. The frequency spectrum, the magnitude of changes in the frequency and other musical features (onset enveloppe, and RMS) are extracted and used to create latent vectors, which when fed to the StyleGAN, result in interpolated frames which react to the music.
 
-Album cover will be released at a later date.
+<br/><br/>
+The music video will be released in Spring 2021.
 
 
