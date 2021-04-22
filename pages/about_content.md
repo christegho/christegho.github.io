@@ -54,7 +54,7 @@ body {
 }
 
 </style>
-I am a machine learning engineer with focus on computer vision, language modeling, and generative models. I am interested in the intersection of art and machine learning, and have worked with organisations, artists and scientists applying ML to their work.
+I am a machine learning engineer with focus on computer vision, language modeling, and generative models and I am interested in the intersection of art and ML. My recent collaborations include work with artist Zach Blas on The Doors, an installation commissioned by the De Young Museum and the Van Abbe museum, and developping a few shot gaz canisters detector for Forensic Architecture.
 <br/><br/>
 I have executed challenging tasks throughout entire pipelines, from dealing with small amounts of data (as little as 10 training data points) all the way to deploying ML models that serve thousands of requests per second.
 <br/><br/>
