@@ -61,13 +61,13 @@ body {
 }
 
 </style>
-
+<br/><br/>
 Collaborated with DJ and producer [SONIKKU](https://bellaunion.com/artists/sonikku/#:~:text='Sweat'%20is%20the%20new%20single,synths%20and%20pulsating%20bass%2Dlines.) on the music video for his upcoming Spring 2021 release. 
 
 <br/><br/>
-I create audio reactive visuals generated with low shot StyleGANs trained on images of ecstasy pills, lazer shows, the adonis instagram page and images of SONIKKU to simulate a night out from an AI perspective. The frequency spectrum, the magnitude of changes in the frequency and other musical features (onset enveloppe, and RMS) are extracted and used to create latent vectors, which when fed to the StyleGAN, result in interpolated frames which react to the music.
+I created audio reactive visuals generated with low shot StyleGANs trained on images of ecstasy pills, lazer shows, the adonis instagram page and images of SONIKKU to simulate a night out from an AI perspective. The frequency spectrum, the magnitude of changes in the frequency and other musical features (onset enveloppe, and RMS) are extracted and used to create latent vectors, which when fed to the StyleGAN, result in interpolated frames which react to the music.
 
 <br/><br/>
 The music video will be released in Spring 2021.
 
-
+<br/><br/>
