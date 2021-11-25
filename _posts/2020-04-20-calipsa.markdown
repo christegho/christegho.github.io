@@ -6,7 +6,7 @@ last_modified_at:
 categories: [computer-vision, video-understanding, transfer-learning]
 ---
 
-* Currently working as a senior machine learning engineer at [Calipsa](calipsa.io).
+* Currently working as a senior machine learning engineer at [Calipsa](https://www.calipsa.io/.
 <br/><br/>
 * Calipsa’s AI platform analyses CCTV alarms in real-time to filter out false ones and automatically notify alarm monitoring services about true alarms.
 <br/><br/>
