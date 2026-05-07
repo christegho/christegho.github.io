@@ -122,20 +122,20 @@ img {
 
 .site-avatar {
   display: block;
-  width: 82px;
-  height: 82px;
-  margin: 0 0 12px;
+  width: 34px;
+  height: 34px;
+  margin: 0 0 10px;
   background: transparent;
   border: 0;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .site-avatar img {
   display: block;
-  width: 82px;
-  height: 82px;
+  width: 34px;
+  height: 34px;
   object-fit: cover;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .site-info {
@@ -246,7 +246,7 @@ footer {
   }
 
   .site-avatar {
-    margin: 0 auto;
+    margin: 0 auto 10px;
   }
 
   .site-info {
