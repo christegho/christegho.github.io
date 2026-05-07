@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Robust video object and motion detection at Calipsa by Chris Tegho."
+    />
+    <title>Video Object and Motion Detection - Chris Tegho</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="hex-bg" aria-hidden="true"></canvas>
+
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead">
+          <a class="site-avatar" href="index.html" aria-label="Chris Tegho">
+            <img src="assets/images/logo.jpg" alt="Chris Tegho logo" />
+          </a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="index.html">Chris Tegho</a></h1>
+            <p class="site-description">LLMs / VLMs / graph knowledge systems / small-model training</p>
+          </div>
+
+          <nav aria-label="Primary navigation">
+            <a href="index.html#blog">Blog</a>
+            <a href="index.html#projects">Projects</a>
+            <a href="index.html#research">Research</a>
+            <a href="index.html#about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <main class="container">
+      <article class="page post-page">
+        <p class="date">2017 - 2022</p>
+        <h1>VIDEO OBJECT AND MOTION DETECTION</h1>
+
+        <div class="entry">
+          <p>
+            At Calipsa, I worked on machine learning models for CCTV alarm filtering.
+            The task sounds simple: decide whether an alarm contains meaningful person
+            or vehicle motion. In practice, the edge cases are the whole problem.
+          </p>
+
+          <p>
+            The clips were short, often only a few frames. They came from real cameras
+            with low light, low contrast, thermal sensors, rain, wind, shadows,
+            compression artifacts, small objects, occlusions, and many unseen camera
+            viewpoints. A useful model had to reduce false alarms without dropping the
+            true events that operators cared about.
+          </p>
+
+          <h2>What I built</h2>
+          <p>
+            I led the end-to-end development of video object and motion detection
+            systems, including the dataset curation process, evaluation framework,
+            deployment metrics, and robustness analysis. The models improved false alarm
+            reduction while maintaining very high recall across changing video quality
+            and deployment distributions.
+          </p>
+
+          <p>
+            I also researched transfer to lower-resolution settings, down to roughly
+            60px by 80px, and thermal settings where labelled data was much less
+            available.
+          </p>
+
+          <img class="wide-image" src="assets/images/calipsa/calipsa.gif" alt="Calipsa video alarm example" />
+
+          <p class="tags">video understanding / object detection / motion detection / transfer learning</p>
+        </div>
+      </article>
+    </main>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer>
+          <p><a href="index.html">Back to index</a></p>
+        </footer>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
