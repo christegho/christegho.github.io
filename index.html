@@ -1,6 +1,272 @@
----
-layout: default
----
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Chris Tegho writes and builds around LLMs, VLMs, graph knowledge systems, small-model training, RL, and computer vision."
+    />
+    <title>Chris Tegho - ML systems</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <canvas id="hex-bg" aria-hidden="true"></canvas>
 
-{% capture my_include %}{% include_relative pages/about_content.md %}{% endcapture %}
-{{ my_include | markdownify }}
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead">
+          <a class="site-avatar" href="#top" aria-label="Chris Tegho">
+            <span>ct</span>
+          </a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="#top">Chris Tegho</a></h1>
+            <p class="site-description">LLMs / VLMs / graph knowledge systems / small-model training</p>
+          </div>
+
+          <nav aria-label="Primary navigation">
+            <a href="#blog">Blog</a>
+            <a href="#projects">Projects</a>
+            <a href="#research">Research</a>
+            <a href="#about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <main id="top" class="container">
+      <section id="blog" class="posts" aria-label="Developer blog entries">
+        <article class="post">
+          <p class="date">2025 - present</p>
+          <h1><a href="#unsabotage">LIVE VIDEO UNDERSTANDING WITH VLMS</a></h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2025 - present</p>
+          <h1><a href="#gregthe-ai">RAG FOR POST-SALES INTELLIGENCE</a></h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2022 - 2024</p>
+          <h1><a href="#unitary">VIDEO-CENTRIC MULTIMODAL MODERATION</a></h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2017 - 2022</p>
+          <h1><a href="#calipsa">VIDEO OBJECT AND MOTION DETECTION</a></h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2022</p>
+          <h1><a href="#forensic-architecture">FEW-SHOT TEAR GAS DETECTION</a></h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2017 - 2018</p>
+          <h1>
+            <a href="bayesian-dialogue-rl.html">BAYESIAN DEEP RL FOR DIALOGUE SYSTEMS</a>
+          </h1>
+        </article>
+
+        <article class="post">
+          <p class="date">2019 - 2022</p>
+          <h1><a href="#schmidt">APPLIED ML FOR SCIENTIFIC MODELLING</a></h1>
+        </article>
+      </section>
+
+      <section id="projects" class="page">
+        <h1>PROJECTS</h1>
+
+        <div class="entry">
+          <article id="unsabotage">
+            <h2>Live video understanding with vision-language models</h2>
+            <p>
+              For Unsabotage, I have been exploring what it takes to make a video
+              stream legible to a local model in real time. Can a small VLM describe movement as it unfolds, without depending on a
+              remote API or an offline annotation pipeline?
+            </p>
+            <p>
+              I built a video sampler that batches temporal context into VLM
+              requests, outputs movement descriptions, and runs Qwen3-VL GGUF models
+              locally through a llama-server-compatible API. I also experimented with
+             a VL-JEPA path for comparing generated descriptions with learned video representations.
+            </p>
+            <p class="tags">VLMs / live video understanding / Qwen3-VL / V-JEPA / TTS</p>
+          </article>
+
+          <article id="gregthe-ai">
+            <h2>Retrieval-augmented generation for post-sales intelligence</h2>
+            <p>
+              At gregthe.ai, I worked on the problem of making post-sales knowledge
+              searchable enough for an LLM to reason over it usefully. This involved adding retrieval, deciding what should be retrieved,
+              how it should be embedded, and how failures should be diagnosed.
+            </p>
+            <p>
+              I architected and deployed a scalable multi-tenant RAG system, designing
+              the ingestion, embedding, indexing, and retrieval optimization pipeline
+              that moved the product from no retrieval capability to production insight
+              surfacing over growing SaaS document repositories.
+            </p>
+            <p class="tags">RAG / embeddings / indexing / retrieval optimization / SaaS</p>
+          </article>
+
+          <article id="unitary">
+            <h2>Video-centric multimodal policy violation detection</h2>
+            <p>
+              At Unitary, I worked on  video, policy violations, and representing temporal
+              evidence while still using text, OCR, and ASR when language carried part
+              of the signal.
+            </p>
+            <p>
+              I designed and deployed a video-centric multimodal transformer system
+              combining frame-level visual models, temporal transformers, and
+              text/audio-derived encoders. The system improved detection across
+              moderation categories and increased confident no-violation predictions in
+              production.
+            </p>
+            <p class="tags">video-language models / multimodal transformers / ASR / OCR</p>
+          </article>
+
+          <article id="calipsa">
+            <h2>Robust video object and motion detection</h2>
+            <p>
+              At Calipsa, I worked on video models that had to be useful under messy
+              deployment conditions: very short CCTV clips, low light, low resolution,
+              thermal cameras, occlusions, compression artifacts, and distribution
+              shifts across sites.
+            </p>
+            <p>
+              I led the end-to-end development of object and motion detection systems
+              for alarm filtering, designing the data pipeline, evaluation
+              framework, deployment metrics, and robustness checks needed to reduce
+              false alarms while preserving very high recall.
+            </p>
+            <p class="tags">computer vision / video understanding / object detection / recall</p>
+          </article>
+
+          <article id="forensic-architecture">
+            <h2>Few-shot tear gas canister detection</h2>
+            <p>
+              With Forensic Architecture, I worked on detecting tear-gas canisters in
+              videos for human-rights investigations. The research question was how to
+              make object detection useful when the training set is far smaller than
+              conventional CNN detectors expect.
+            </p>
+            <p>
+              I experimented with few-shot detectors trained from as few as 10 images,
+              scaling up to 300 canister examples, and tested synthetic augmentation for
+              improving generalization in open-source investigation footage.
+            </p>
+            <p class="tags">few-shot learning / object detection / computer vision / WACV</p>
+          </article>
+
+          <article id="cambridge">
+            <h2>
+              <a href="bayesian-dialogue-rl.html">Bayesian deep reinforcement learning for dialogue</a>
+            </h2>
+            <p>
+              In the Dialogue Systems group at Cambridge, I studied uncertainty in deep
+              reinforcement learning for dialogue policy optimization. The motivation
+              was whether neural policies could become more sample-efficient by knowing
+              when they were uncertain.
+            </p>
+            <p>
+              I implemented Bayes-by-Backprop, dropout, concrete dropout, bootstrapped
+              ensembles, and alpha-divergences in PyDial, leading to ICASSP and NeurIPS
+              Bayesian Deep Learning workshop publications. The internal write-up is
+              available <a href="bayesian-dialogue-rl.html">here</a>.
+            </p>
+            <p class="tags">Bayesian neural networks / deep RL / dialogue systems / ICASSP</p>
+          </article>
+
+          <article id="schmidt">
+            <h2>Applied ML mentoring for scientific modelling</h2>
+            <p>
+              As a project mentor for the Schmidt Data for Science Residency Program, I
+              helped researchers turn scientific questions into modelable ML problems.
+              The projects ranged from nationwide health-register modelling to language
+              analysis of scholarly discourse.
+            </p>
+            <p>
+              I supervised work on comorbidity prediction, topic modelling,
+              sequence-to-sequence demand forecasting, and protein sequence fitness
+              prediction for enzymatic plastic degradation, with an emphasis on
+              evaluation under scientific constraints.
+            </p>
+            <p class="tags">topic models / seq2seq / health data / protein sequences</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="research" class="page">
+        <h1>RESEARCH</h1>
+        <div class="entry">
+          <article>
+            <h2>Research interests</h2>
+            <p>
+              Video-language models, LLMs, RL, Bayesian modelling, computer vision for video
+              understanding, object and movement detection, graph knowledge systems,
+              agent workflows, retrieval systems, and practical methods for running and
+              training smaller models.
+            </p>
+            <p class="tags">VLMs / RL / Bayesian ML / small models / graphs / agents</p>
+          </article>
+
+          <article>
+            <h2>Publications</h2>
+            <ul>
+              <li>
+                D'Cruz, A.*, Tegho, C.*, Greaves, S.*, and Kermode, L. (2022).
+                Detecting Tear Gas Canisters With Limited Training Data. IEEE/CVF
+                Winter Conference on Applications of Computer Vision (WACV).
+              </li>
+              <li>
+                Tegho, C., Budzianowski, P., and Gasic, M. (2018). Benchmarking
+                Uncertainty Estimates With Deep Reinforcement Learning for Dialogue
+                Policy Optimisation. IEEE International Conference on Acoustics,
+                Speech, and Signal Processing (ICASSP). Best Student Paper Award.
+              </li>
+              <li>
+                Tegho, C., Budzianowski, P., and Gasic, M. (2017). Uncertainty
+                Estimates for Efficient Neural Network-based Dialogue Policy
+                Optimisation. Bayesian Deep Learning Workshop, NeurIPS.
+              </li>
+              <li>Tegho, C. Bayes By Backprop Neural Networks for Dialogue Management. Thesis Dissertation for MPhil in Machine Learning, Speech and Language Technology, University of Cambridge.</li>
+            <li>Ploix, B., Rashid, M., Agrawal, S., D’cruz, A., Tegho, C., & Veselev, A. (2021). Method and system for reviewing and analysing video alarms (GB Patent Application No. GB2585919A). Calipsa Ltd. https://patents.google.com/patent/GB2585919A/en</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section id="about" class="page">
+        <h1>ABOUT</h1>
+        <div class="entry">
+          <p>
+            I build around machine learning systems: fine-tuned models, graph knowledge
+            systems, agent workflows, video-language models, RL, and retrieval systems.
+            I am interested in video understanding, LLMs, agentic AI, designing smaller models, and making model outputs traceable to structured evidence. I work
+            mainly in Python and JavaScript, with TensorFlow, PyTorch, JAX, and
+            production ML tooling.
+          </p>
+
+          <ul>
+            <li>Email: <a href="mailto:christegho@gmail.com">christegho@gmail.com</a></li>
+            <li>Current site: <a href="https://christegho.github.io/">christegho.github.io</a></li>
+            <li>CV: <a href="assets/chris-tegho-cv.pdf">download pdf</a></li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer>
+          <p>Chris Tegho</p>
+        </footer>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
